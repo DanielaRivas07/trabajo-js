@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0 10px;
+}
+
+.padre{
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+    
+}
+.target1, .target2 ,.target3{
+    width: 500px;
+    margin: 20px;
+    padding: 50px;
+    border: solid black 10px;
+    border-radius: 40px;
+    background-color: rgb(135, 135, 209);
+    text-align: center;
+}
+
+
+
+
